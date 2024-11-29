@@ -1,7 +1,8 @@
+streamlit>=1.40.2
 python-dotenv
 openai
 llama-index
-streamlit
 nltk
 sqlalchemy
-psycopg2
+psycopg2-binary
+google-generativeai
